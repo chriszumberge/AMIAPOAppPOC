@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+workspace 'APOAppPOC'
+pod 'AFNetworking'
+pod 'ChameleonFramework'
+pod 'PNChart'
+pod 'MBProgressHUD', '~> 0.8'

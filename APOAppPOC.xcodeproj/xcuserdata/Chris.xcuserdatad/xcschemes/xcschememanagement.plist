@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>APOAppPOC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>APOWidget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>83017CCD19F6EE1D00FF2E33</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83017CE419F6EFC300FF2E33</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83017D1419F6F0B500FF2E33</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>833F718A19F0125300CCEF76</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>833F71A619F0125300CCEF76</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
